@@ -1,3 +1,11 @@
+ca-certificates (20161130+nmu1+deb9u1pardus1) stable; urgency=medium
+
+  * Update control file
+  * Remove gbp.conf for clean build
+  * Pardus CI integration
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 16 Oct 2018 08:51:02 +0300
+
 ca-certificates (20161130+nmu1+deb9u1) stretch; urgency=medium
 
   * debian/ca-certificates.postinst:
